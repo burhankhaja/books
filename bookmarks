@@ -1,0 +1,1262 @@
+[
+  {
+    "title": "Secret ARBRITRAGE",
+    "url": "https://www.youtube.com/watch?v=ikcBeQskQG8",
+    "tags": []
+  },
+  {
+    "title": "Ethernaut",
+    "url": "https://ethernaut.openzeppelin.com/level/0x478f3476358Eb166Cb7adE4666d04fbdDB56C407",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "Audit Techniques & Tools 101 (Block 1) - YouTube",
+    "url": "https://www.youtube.com/watch?v=M0C7z3TE5Go",
+    "tags": [
+      "zipperW3",
+      "secureum"
+    ]
+  },
+  {
+    "title": "pause",
+    "url": "https://www.youtube.com/watch?v=OOzyoaYIw2k&list=PLYORQHvGMg-XLdPc9Do8dWnjqtFcaDWEG&index=5",
+    "tags": [
+      "zipperW3",
+      "secureum"
+    ]
+  },
+  {
+    "title": "x676f64/secureum-mind_map: Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked.",
+    "url": "https://github.com/x676f64/secureum-mind_map",
+    "tags": [
+      "zipperW3",
+      "secureum"
+    ]
+  },
+  {
+    "title": "Secureum - YouTube",
+    "url": "https://www.youtube.com/@SecureumVideos/playlists",
+    "tags": [
+      "zipperW3",
+      "secureum"
+    ]
+  },
+  {
+    "title": "second_mentor/@SCP::youtube",
+    "url": "https://www.youtube.com/watch?v=Gg6nt3YW74o&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=4",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "How to Audit a Smart Contract | Can you find the Solidity Security Vulnerabilities? - YouTube",
+    "url": "https://www.youtube.com/watch?v=TmZ8gH-toX0&pp=ygUZQ3Jvc3MtZnVuY3Rpb24gUmVlbnRyYW5jeQ%3D%3D",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "modifier => reent",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier-fba6b1d8ff81",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "owen_reentrancy",
+    "url": "https://www.youtube.com/watch?v=3T1t2ginfTg&t=443s",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Read Only Reentrancy | Hack Solidity (0.8) - YouTube",
+    "url": "https://www.youtube.com/watch?v=0fgGTRlsDxI&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=16",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "read-only-reent"
+    ]
+  },
+  {
+    "title": "//also-read-qr-coded-links",
+    "url": "https://www.youtube.com/watch?v=8D5ZJyU-dX0",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "read-only-reent"
+    ]
+  },
+  {
+    "title": "ValueDeFi’s Invalid Share Calculation Exploit In-depth Analysis | by Inspex | Medium",
+    "url": "https://inspexco.medium.com/value-defis-invalid-share-calculation-exploit-in-depth-analysis-1c8f97c1416e",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "read-only-reent"
+    ]
+  },
+  {
+    "title": "(5/8/21) Rari Capital Exploit Timeline & Analysis | by Nipun Pitimanaaree | Medium",
+    "url": "https://nipunp.medium.com/5-8-21-rari-capital-exploit-timeline-analysis-8beda31cbc1a",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "read-only-reent"
+    ]
+  },
+  {
+    "title": "XFR",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-04-cross-function-reentrancy-de9cbce0558e",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "cross-function-reentrancy"
+    ]
+  },
+  {
+    "title": "XFR-CODE",
+    "url": "https://github.com/serial-coder/solidity-security-by-example/tree/main/04_cross_function_reentrancy",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "cross-function-reentrancy"
+    ]
+  },
+  {
+    "title": "pitfalls--simulate-these-reentrancy-attacks&&secure'em",
+    "url": "https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/#cross-function-reentrancy",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "cross-function-reentrancy"
+    ]
+  },
+  {
+    "title": "Solidity Security By Example #05: Cross-Contract Reentrancy | by Phuwanai Thummavet | Valix Consulting | Medium",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-05-cross-contract-reentrancy-30f29e2a01b9",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "cross-contract-reentrancy"
+    ]
+  },
+  {
+    "title": "#3-Cross-Contract Reentrancy Attack. Reentrancy attack is one of the most… | by Inspex | Medium",
+    "url": "https://inspexco.medium.com/cross-contract-reentrancy-attack-402d27a02a15",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "cross-contract-reentrancy"
+    ]
+  },
+  {
+    "title": "Read-only Reentrancy: In-Depth — Officer's Blog",
+    "url": "https://officercia.mirror.xyz/DBzFiDuxmDOTQEbfXhvLdK0DXVpKu1Nkurk0Cqk3QKc",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "(FOLLOW-LINKS)reentrancy-wheretofind-erc-s",
+    "url": "https://www.rareskills.io/post/where-to-find-solidity-reentrancy-attacks",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "The Ultimate Guide To Reentrancy. Reentrancy has a long history in… | by Immunefi | Immunefi | May, 2023 | Medium",
+    "url": "https://medium.com/immunefi/the-ultimate-guide-to-reentrancy-19526f105ac",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Reentrancy - Ethereum Smart Contract Best Practices",
+    "url": "https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "openzeppelin-contracts/contracts/security/ReentrancyGuard.sol at master · OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/security/ReentrancyGuard.sol",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Hack Analysis: Omni Protocol, July 2022 | by Immunefi | Immunefi | Medium",
+    "url": "https://medium.com/immunefi/hack-analysis-omni-protocol-july-2022-2d35091a0109",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "reentrancy_News",
+    "url": "https://github.com/pcaversaccio/reentrancy-attacks",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "crytic/slither: Static Analyzer for Solidity",
+    "url": "https://github.com/crytic/slither",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "tools"
+    ]
+  },
+  {
+    "title": "nascentxyz/pyrometer: A tool for analyzing the security and parameters of a solidity smart contract",
+    "url": "https://github.com/nascentxyz/pyrometer",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "tools"
+    ]
+  },
+  {
+    "title": "Consensys/mythril: Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.",
+    "url": "https://github.com/ConsenSys/mythril",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy",
+      "tools"
+    ]
+  },
+  {
+    "title": "Fei Protocol Incident Analysis. From Apr-30–2022 09:01:35 AM +UTC to… | by CertiK | Medium",
+    "url": "https://certik.medium.com/fei-protocol-incident-analysis-8527440696cc",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Web3-Security-Library/Vulnerabilities at main · immunefi-team/Web3-Security-Library",
+    "url": "https://github.com/immunefi-team/Web3-Security-Library/tree/main/Vulnerabilities#re-entrancy",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "DAO-analysis",
+    "url": "https://medium.com/@zhongqiangc/smart-contract-reentrancy-thedao-f2da1d25180c",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "cream-finance-analysis",
+    "url": "https://inspexco.medium.com/reentrancy-attack-on-cream-finance-incident-analysis-1c629686b6f5",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "easy_explanation",
+    "url": "https://medium.com/securing/reentrancy-attack-in-smart-contracts-is-it-still-a-problem-50db3e2042ae",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Re-Entrancy | Solidity by Example | 0.8.17",
+    "url": "https://solidity-by-example.org/hacks/re-entrancy/",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Reentrancy | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "Solidity Smart Contract Security: 4 Ways to Prevent Reentrancy Attacks | by insurgent | Better Programming",
+    "url": "https://betterprogramming.pub/solidity-smart-contract-security-preventing-reentrancy-attacks-fc729339a3ff",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Reentrancy"
+    ]
+  },
+  {
+    "title": "tx.origin => phishing_Attack",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-07-phishing-with-improper-authorization-232dacf307e3",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "phishing_tx.origin"
+    ]
+  },
+  {
+    "title": "selfdestruct-balance-assertion-dos",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether-e13be2c6b985",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "(1) Denial of Service | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=qtLI7K1L1bg&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=8",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "Denial of Service | Solidity by Example | 0.8.17",
+    "url": "https://solidity-by-example.org/hacks/denial-of-service/",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "Solidity Security By Example #09: Denial of Service With Revert | by Phuwanai Thummavet | Valix Consulting | Medium",
+    "url": "https://medium.com/valixconsulting/solidity-security-by-example-09-denial-of-service-with-revert-814f55b61e02",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "Solidity Security By Example #10: Denial of Service With Gas Limit | by Phuwanai Thummavet | Valix Consulting | Medium",
+    "url": "https://medium.com/valixconsulting/solidity-security-by-example-10-denial-of-service-with-gas-limit-346e87e2ef78",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "Solidity Security By Example #11: Denial of Service With Induction Variable Overflow | by Phuwanai Thummavet | Valix Consulting | Medium",
+    "url": "https://medium.com/valixconsulting/solidity-security-by-example-11-denial-of-service-with-induction-variable-overflow-9991299ac8e4",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "DOS"
+    ]
+  },
+  {
+    "title": "(3) Arithmetic Overflow and Underflow | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=zqHb-ipbmIo&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=2",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "over_under__flows"
+    ]
+  },
+  {
+    "title": "integer__underflow",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-01-integer-underflow-c1147c2e507b",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "over_under__flows"
+    ]
+  },
+  {
+    "title": "integer__overflow",
+    "url": "https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-06-integer-overflow-e1f444f3cc4",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "over_under__flows"
+    ]
+  },
+  {
+    "title": "Front Running | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=MN55R440twQ&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=12",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "front-running"
+    ]
+  },
+  {
+    "title": "Front Running | Solidity by Example | 0.8.17",
+    "url": "https://solidity-by-example.org/hacks/front-running/",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "front-running"
+    ]
+  },
+  {
+    "title": "delegat-call",
+    "url": "https://ethernaut.openzeppelin.com/level/0x73379d8B82Fda494ee59555f333DF7D44483fD58",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Delegate-call"
+    ]
+  },
+  {
+    "title": "(2) Unsafe Delegatecall (part 1) | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=bqn-HzRclps&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=5",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Delegate-call"
+    ]
+  },
+  {
+    "title": "(2) Unsafe Delegatecall (part 2) | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=oinniLm5gAM&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=6",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Delegate-call"
+    ]
+  },
+  {
+    "title": "Delegatecall | Solidity by Example | 0.8.17",
+    "url": "https://solidity-by-example.org/hacks/delegatecall/",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Delegate-call"
+    ]
+  },
+  {
+    "title": "Mastering Delegatecall in Solidity: A Comprehensive Guide with EVM Walkthrough | by Oluwatosin Serah | Medium",
+    "url": "https://medium.com/@ajaotosinserah/mastering-delegatecall-in-solidity-a-comprehensive-guide-with-evm-walkthrough-6ddf027175c7#:~:text=In%20Solidity%2C%20delegatecall%20is%20a,its%20own%20storage%20and%20context.",
+    "tags": [
+      "zipperW3",
+      "BUGS",
+      "Delegate-call"
+    ]
+  },
+  {
+    "title": "cz",
+    "url": "https://cryptozombies.io/en/solidity",
+    "tags": [
+      "zipperW3",
+      "WEB III"
+    ]
+  },
+  {
+    "title": "wallet",
+    "url": "chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "Alchemy",
+    "url": "https://dashboard.alchemy.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "CZ",
+    "url": "https://cryptozombies.io/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "LearnWeb3 DAO - Become a Web3 Developer for free!",
+    "url": "https://learnweb3.io/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "Chainlist-getChainIDs",
+    "url": "https://chainlist.org/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "PatrickAlphaC (Patrick Collins)",
+    "url": "https://github.com/PatrickAlphaC/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "VRF | Subscription Management",
+    "url": "https://vrf.chain.link/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "Signature Database",
+    "url": "https://openchain.xyz/signatures",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "Test Yourself With A Free Solidity Test Now By RareSkills",
+    "url": "https://www.rareskills.io/test-yourself",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "https://www.rareskills.io/learn-solidity",
+    "url": "https://www.rareskills.io/learn-solidity",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "Dashs"
+    ]
+  },
+  {
+    "title": "GITHUB-COURSE",
+    "url": "https://github.com/Cyfrin/foundry-full-course-f23",
+    "tags": [
+      "zipperW3",
+      "WEB III"
+    ]
+  },
+  {
+    "title": "Solidity_docs",
+    "url": "https://docs.soliditylang.org/en/v0.8.20/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "Introduction - Foundry Book",
+    "url": "https://book.getfoundry.sh/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "Blockchain Oracles for Connected Smart Contracts | Chainlink Documentation",
+    "url": "https://docs.chain.link/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "Solidity by Example | 0.8.17",
+    "url": "https://solidity-by-example.org/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "NetworkConfig",
+    "url": "https://docs.chain.link/vrf/v2/subscription/supported-networks",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "eips",
+    "url": "https://eips.ethereum.org/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "ERC-20: Token Standard",
+    "url": "https://eips.ethereum.org/EIPS/eip-20",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "Documentation - OpenZeppelin Docs",
+    "url": "https://docs.openzeppelin.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "docs"
+    ]
+  },
+  {
+    "title": "Home / Twitter",
+    "url": "https://twitter.com/home",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "QnA"
+    ]
+  },
+  {
+    "title": "Phind: AI search engine",
+    "url": "https://www.phind.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "QnA"
+    ]
+  },
+  {
+    "title": "Ethereum Stack Exchange",
+    "url": "https://ethereum.stackexchange.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "QnA"
+    ]
+  },
+  {
+    "title": "Peeranha",
+    "url": "https://peeranha.io/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "QnA"
+    ]
+  },
+  {
+    "title": "helper||telegram",
+    "url": "https://hackerone.com/krevetk0?type=user",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "QnA"
+    ]
+  },
+  {
+    "title": "FLASHLOAN",
+    "url": "https://www.google.com/search?q=flashloan&oq=flashloan&aqs=chrome..69i57j0i512l2j0i10i512j0i512l2j0i10i512j69i60.1686j0j7&sourceid=chrome&ie=UTF-8",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "MONEY-WAYS"
+    ]
+  },
+  {
+    "title": "Get Testnet LINK Tokens | Chainlink Faucets",
+    "url": "https://faucets.chain.link/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "Speed Run Ethereum",
+    "url": "https://speedrunethereum.com/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "Decentralized Data Feeds | Chainlink",
+    "url": "https://data.chain.link/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "[interfaces]chainlink/contracts/src/v0.8/interfaces at develop · smartcontractkit/chainlink · GitHub",
+    "url": "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.8/interfaces",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "v3/interface",
+    "url": "https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "DLAI - Learning Platform Beta",
+    "url": "https://learn.deeplearning.ai/login",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs",
+    "url": "https://web3.career/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "Solidity Jobs - Jun 2023 (3 New)",
+    "url": "https://web3.career/solidity-jobs",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "Crontab.guru - The cron schedule expression editor",
+    "url": "https://crontab.guru/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "GitHub - smartcontractkit/chainlink-brownie-contracts: A repository for automatically using the latest chainlink repo from the core chainlink repo.",
+    "url": "https://github.com/smartcontractkit/chainlink-brownie-contracts",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "transmissions11/solmate: Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "url": "https://github.com/transmissions11/solmate",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "MOCK-PRICE-FEED",
+    "url": "https://github.com/Cyfrin/foundry-fund-me-f23/blob/main/test/mock/MockV3Aggregator.sol",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts: OpenZeppelin Contracts is a library for secure smart contract development.",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "smartcontractkit/chainlink: node of the decentralized oracle network, bridging on and off-chain computation",
+    "url": "https://github.com/smartcontractkit/chainlink/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "devops",
+    "url": "https://github.com/Cyfrin/foundry-devops",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "The Red Guild",
+    "url": "https://theredguild.org/",
+    "tags": [
+      "zipperW3",
+      "WEB III",
+      "others"
+    ]
+  },
+  {
+    "title": "https://www.evm.codes|| GAS_COSTS",
+    "url": "https://www.evm.codes/",
+    "tags": [
+      "zipperW3",
+      "WEB III"
+    ]
+  },
+  {
+    "title": "Contracts => OpenZeppelin ",
+    "url": "https://docs.openzeppelin.com/contracts/4.x/",
+    "tags": [
+      "zipperW3",
+      "WEB III"
+    ]
+  },
+  {
+    "title": "nfts",
+    "url": "https://www.youtube.com/watch?v=vB37gM1ooKs&list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk&index=141&pp=iAQB",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "auditing---youtube",
+    "url": "https://www.youtube.com/@smartcontractprogrammer/playlists",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Quillhash/QuillAudit_Auditor_Roadmap: This repository contains a mindmap and stepwise resource to get started with Smart Contract Auditing. If you find anything missing or want to update existing resources, feel free to create a pull request.",
+    "url": "https://github.com/Quillhash/QuillAudit_Auditor_Roadmap",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Web3-Security-Library/Vulnerabilities at main · immunefi-team/Web3-Security-Library",
+    "url": "https://github.com/immunefi-team/Web3-Security-Library/tree/main/Vulnerabilities",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "T10_smart_contract_bugs",
+    "url": "https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "5:45:00 => CTFS",
+    "url": "https://www.youtube.com/watch?v=v9ANh5wmj_A",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "roadmap-1",
+    "url": "https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "BUGS-OVERVIEW",
+    "url": "https://www.rareskills.io/post/smart-contract-security?ref=gmhacker.com",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Solidity Security: Comprehensive list of known attack vectors and common anti-patterns",
+    "url": "https://blog.sigmaprime.io/solidity-security.html",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "Damn Vulnerable DeFi",
+    "url": "https://www.damnvulnerabledefi.xyz/",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "Ethernaut",
+    "url": "https://ethernaut.openzeppelin.com/",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "Solodit",
+    "url": "https://solodit.xyz/",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "Cyfrin",
+    "url": "https://www.cyfrin.io/",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "Web3 Education",
+    "url": "https://web3education.dev/",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "resources_to_learn"
+    ]
+  },
+  {
+    "title": "transmissions11/solcurity: Opinionated security and code quality standard for Solidity smart contracts.",
+    "url": "https://github.com/transmissions11/solcurity",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "pre-audit-@dev-prax"
+    ]
+  },
+  {
+    "title": "nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for smart contract development",
+    "url": "https://github.com/nascentxyz/simple-security-toolkit",
+    "tags": [
+      "zipperW3",
+      "AUDITs",
+      "pre-audit-@dev-prax"
+    ]
+  },
+  {
+    "title": "PatrickAlphaC/denver-security",
+    "url": "https://github.com/PatrickAlphaC/denver-security",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "0xVolodya/audits: Public audits",
+    "url": "https://github.com/0xVolodya/audits",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "fuzzing-solidity-lastlesson",
+    "url": "https://www.youtube.com/watch?v=p40bYzRE8eA&list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk&index=219",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "gmhacker's Blog - Web3, Security, Thoughts",
+    "url": "https://www.gmhacker.com/",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Immunefi - Whitehat Leaderboard",
+    "url": "https://immunefi.com/leaderboard/?ref=gmhacker.com",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "(35) Zach Obront: Winning Audit Contests & Crushing Bug Bounties - YouTube",
+    "url": "https://www.youtube.com/watch?v=57V-57ZXmfA",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "RabbitHole Quest Protocol contest",
+    "url": "https://code4rena.com/reports/2023-01-rabbithole#h-01-bad-implementation-in-minter-access-control-for-rabbitholereceipt-and-rabbitholetickets-contracts",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Gas Optimization in Ethereum Smart Contracts: 10 Best Practices | by CertiK | Jun, 2023 | Medium",
+    "url": "https://certik.medium.com/gas-optimization-in-ethereum-smart-contracts-10-best-practices-cbd57548bdf0",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "immunify",
+    "url": "https://medium.com/immunefi/your-first-day-as-a-bug-bounty-hunter-on-immunefi-9b101768a40c",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Paweł Kuryłowicz – Medium",
+    "url": "https://medium.com/@wh01s7",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Owen Thurm - YouTube",
+    "url": "https://www.youtube.com/@0xOwenThurm/videos",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "attacks __consensys",
+    "url": "https://consensys.github.io/smart-contract-best-practices/attacks/",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "[attacks-examples]Valix Consulting",
+    "url": "https://medium.com/valixconsulting",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "checklist-audit",
+    "url": "https://t.co/snbCLiQ7mD",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Guardian - Solidity Lab - Solidity Lab",
+    "url": "https://lab.guardianaudits.com/",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Rekt - news(Hacks);",
+    "url": "https://rekt.news/",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "decoder-hacks-medium",
+    "url": "https://quillaudits.medium.com/",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Job Openings",
+    "url": "https://www.openzeppelin.com/jobs/opening?gh_jid=4254142003&gh_src=dd38880f3us",
+    "tags": [
+      "zipperW3",
+      "AUDITs"
+    ]
+  },
+  {
+    "title": "Live Audit - Key Finance | Episode 1 - YouTube",
+    "url": "https://www.youtube.com/watch?v=X9DTJJGDg7c&list=PLTJasqY2MI_9-9Sqqe2wFiZlWB6dwNRAU",
+    "tags": [
+      "zipperW3",
+      "live_audits_0xthurm"
+    ]
+  },
+  {
+    "title": "Live Pair Audit - Filecoin IPC Actors | Episode 1 - YouTube",
+    "url": "https://www.youtube.com/watch?v=CNr48jNuKRM",
+    "tags": [
+      "zipperW3",
+      "live_audits_0xthurm"
+    ]
+  },
+  {
+    "title": "Register | Code4rena",
+    "url": "https://code4rena.com/register",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "(1) Whiteboard Crypto - YouTube",
+    "url": "https://www.youtube.com/@WhiteboardCrypto/videos",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "What are DeFi flash loans? Make millions without investing. | by Karim Al Moghraby | Coinmonks | Medium",
+    "url": "https://medium.com/coinmonks/what-are-defi-flash-loans-make-millions-without-investing-99ed11b2bb8d",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "trial of bits audit reports - Google Search",
+    "url": "https://www.google.com/search?q=trial+of+bits+audit+reports&oq=trial+of+bits+audit+reports&aqs=chrome..69i57j0i13i512j0i390i650l3.4252j0j7&sourceid=chrome&ie=UTF-8",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "what is the game theory in economics",
+    "url": "https://www.phind.com/agent?cache=clkmgeryw000ml9087wlqh3gi",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "first_mentor/@valix_consulting::medium",
+    "url": "https://medium.com/@serial_coder/list/solidity-smart-contract-security-by-example-series-6f59233bd86a",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "yeild farming with smart contracts medium - Google Search",
+    "url": "https://www.google.com/search?q=yeild+farming+with+smart+contracts+medium&oq=yeild+farming+with+smart+contracts+medium&aqs=chrome..69i57j33i10i160.10576j0j7&sourceid=chrome&ie=UTF-8",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "Yield Farming Tutorial — Part 1. Smart Contracts Using Solidity and… | by Andrew Fleming | Coinmonks | Medium",
+    "url": "https://medium.com/coinmonks/yield-farming-tutorial-part-1-3fd5972ce717",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "Coinbase CTF for ETHDenver 2023 — Riddle Bounty | by StErMi | Medium",
+    "url": "https://stermi.medium.com/coinbase-ctf-for-ethdenver-2023-riddle-bounty-8b2305007a33",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "How to Hack Smart Contracts With Slither & Echinda - YouTube",
+    "url": "https://www.youtube.com/watch?v=fln_HPA2uOM&pp=ygUPcnVubmluZyBzbGl0aGVy",
+    "tags": [
+      "zipperW3"
+    ]
+  },
+  {
+    "title": "Accessing Private Data | Hack Solidity (0.6) - YouTube",
+    "url": "https://www.youtube.com/watch?v=Gg6nt3YW74o&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5&index=4&pp=iAQB",
+    "tags": []
+  },
+  {
+    "title": "Accessing Private Data in Smart contracts | by QuillAudits Team | Medium | Medium",
+    "url": "https://quillaudits.medium.com/accessing-private-data-in-smart-contracts-quillaudits-fe847581ce6d",
+    "tags": []
+  }
+]
