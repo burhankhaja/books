@@ -1,4 +1,4 @@
-DONT JUST HUNT FOR WHAT YOU HAVE HINT FOR, GO FOR ALL
+HUNT
 ===========================
 FINAL:
 1)
