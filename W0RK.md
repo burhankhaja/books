@@ -1,6 +1,13 @@
 DONT JUST HUNT FOR WHAT YOU HAVE HINT FOR, GO FOR ALL
+===========================
+FINAL:
+1)
+LMPVaultRouter.sol
+LMPVaultRouter.sol#27
 
+2)
 
+============================
 DELEGATE CALL :=
 SolverCaller.sol
 Multicall.sol#L7
