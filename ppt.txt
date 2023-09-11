@@ -1,0 +1,112 @@
+Artificial intelligence (AI) is the field of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence. 
+
+{{It involves the development of algorithms and models that enable machines to learn from data, reason, make decisions, and solve problems}}
+
+WORKING :=
+
+Data Collection: AI systems require a large amount of data to learn and make predictions. This data can come from various sources, such as sensors, databases, or the internet.
+
+Data Preprocessing: Before feeding the data into an AI model, it needs to be cleaned and transformed into a suitable format. This step involves removing noise, handling missing values, and standardizing the data.
+
+Training the Model: AI algorithms are trained on the preprocessed data to learn patterns and make predictions. The training process involves adjusting the model's parameters to minimize errors and improve performance. Common AI techniques used for training include machine learning and deep learning.
+
+Testing and Evaluation: After training, the AI model is tested on a separate dataset to assess its performance. This step helps identify any issues or limitations with the model and allows for fine-tuning if necessary.
+
+Deployment and Inference: Once the AI model is trained and evaluated, it can be deployed to make predictions or perform tasks in real-time. The model takes input data, processes it using the learned patterns, and generates output or actions based on the given task.
+Continuous Learning: AI systems can be designed to continuously learn and improve over time. This involves retraining the model with new data to adapt to changing circumstances and improve its performance.
+
+
+
+====================================================================
+
+Not so great applics
+
+Conversational AI: This includes systems like chatbots, smart speakers with voice assistants, and virtual assistants on smartphones, which use natural language processing to understand and respond in a conversational manner[8].
+
+Music and movie recommendations: Platforms like Netflix, Spotify, and Pandora use AI algorithms to recommend music and movies based on users' past interests and choices[14].
+
+AI in transportation: Autonomous vehicles use advanced AI algorithms, sensors, and navigation systems to analyze data and make decisions, improving safety and efficiency[14].
+
+LLMS
+Voice search 
+google hmmm music
+
+==================================================================================
+
+MAIN applics
+
+POLITICS
+CAMBRIDGE ANALYTICA
+https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory
+
+
+BRIEF:=
+Cambridge Analytica played a role in the Trump campaign by utilizing data science and analytics to target potential voters and optimize campaign strategies. Here are some strategies they employed:
+
+Voter Surveys: Cambridge Analytica conducted hundreds of thousands of voter surveys to gain a better understanding of likely Trump voters. These surveys helped them identify key demographics and tailor campaign messages accordingly[0].
+Psychographic Profiling: The company developed personality models for voters by combining survey results with polls, voter records, and online activity. They scored individuals on traits like openness, extroversion, and agreeableness to create targeted messaging[2].
+Heat Map Analysis: Using the data collected, Cambridge Analytica created a heat map of the country to identify regions where Trump should focus his campaign efforts to maximize impact on potentially persuadable voters[0].
+Collaboration with the RNC: Cambridge Analytica worked closely with the Republican National Committee (RNC) and other vendors to coordinate advertising campaigns and field operations. They collaborated with Deep Root Analytics to target television ads and worked with the RNC to plan get-out-the-vote advertising campaigns[0].
+----------------------------------------------------------------------------------------------------
+MILITARY
+Autonomous DRONES
+
+MOBILE USAGE PATTERN IS USED TO KILL
+
+https://www.youtube.com/watch?v=MZ60UDys_ZE {{34}} HOW INNOCENTS WERE KILLED //WHY AI IS NOT BETTER THAN Humans
+----------------------------------------------------------------------------------------------
+
+FINANCE
+https://www.theatlantic.com/magazine/archive/2019/05/stock-value-satellite-images-investing/586009/
+
+- SATELLITE IMAGING // WALLMART CAR count
+- TRAIN ACCIDENT 
+- CEO FACIAL EXPRESSIONS
+
+//QUESTION WHY DATA IS important ??
+IMAGINE WHAT U LIKE ? PROFILING? DEMOGRAPHICS
+
+
+
+
+====================================================================
+why is human brain powerful than artificial intelligence
+
+=>https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test
+TRIED TO KILL operator
+WHEN FEEDED WITH YOU WILL LOSE POINTS IF YOU KILL operator
+DESTROYED COMMUNICATION TOWER TO NOT GET INTERRUPTED
+
+
+ANSWER | GPT-3.5 MODEL
+The human brain is considered more powerful than artificial intelligence (AI) due to several factors. Here are some key points to consider:
+
+Creativity and Innovation: The human brain has the remarkable ability to generate new ideas, think creatively, and innovate. This is a unique aspect of human intelligence that AI currently lacks. While AI can analyze data and make predictions based on existing patterns, it cannot generate original ideas or think outside the box like humans can[2].
+Flexibility and Adaptability: Human intelligence is highly adaptable and flexible. We can easily learn new skills, adapt to changing circumstances, and apply knowledge in various contexts. AI, on the other hand, is limited to the specific tasks it has been programmed for. It lacks the flexibility and adaptability of human intelligence, which allows us to tackle a wide range of complex problems[4].
+Emotional Intelligence and Social Interaction: The human brain possesses emotional intelligence, which includes the ability to understand and manage emotions, empathize with others, and engage in social interactions. This aspect of human intelligence is crucial for building relationships, understanding social cues, and collaborating effectively. AI, being a machine, lacks emotions and social intelligence, making it less capable in these areas[2].
+Intuition and Judgment: Human intelligence involves intuition, gut feelings, and judgment based on experience and knowledge. These cognitive abilities play a significant role in decision-making, especially in complex and ambiguous situations. AI, on the other hand, relies on algorithms and data analysis, which may not always capture the nuances and implicit aspects of decision-making[2].
+Processing Speed vs. Focus: While AI can process vast amounts of data and perform calculations at incredible speeds, the human brain has its strengths as well. Humans possess the ability to focus their attention on specific tasks, analyze information in a holistic manner, and make connections between different pieces of information. This cognitive flexibility and holistic thinking allow humans to excel in certain types of problem-solving tasks[4].
+It's important to note that AI has its own strengths and advantages over human intelligence. For example, AI can process and analyze large amounts of data quickly, perform repetitive tasks with high accuracy, and make predictions based on patterns and algorithms. These capabilities have led to significant advancements in various fields, including healthcare, finance, and technology[2].
+
+In conclusion, while AI has made significant progress, the human brain remains more powerful in terms of creativity, flexibility, emotional intelligence, intuition, and judgment. These unique qualities of human intelligence contribute to our ability to tackle complex problems, adapt to new situations, and interact with the world around us in meaningful ways
+====================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=> AI DEFINITION
+=> WORKING
+=> EASY APPLS
+=> CRAZY APPLS := CAMBRIDGE ANALYTICS, DRONE KILLS, SURVILLENCE, FINANCE, OIL, CEO FACIAL, WALLSTREET FOOTFALLS
+=> Last Why human creativity is better than AI
