@@ -1,9 +1,10 @@
+
 #!/bin/bash
 current_dir=$(pwd)
 last_part=$(basename ${current_dir})
 sudo docker run -it -v "${current_dir}":/${last_part} trailofbits/eth-security-toolbox
 
-
+# twitterX := @burhan_khaja
 
 
 : '
