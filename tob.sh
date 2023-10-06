@@ -24,7 +24,7 @@ Setup:
 - B00M! setup ready
 
 Usage:
-- Open the contract directory (for_example: let's say MyCoin )
+- Open the contract directory (for_example: let`s say MyCoin )
 - run tob command (because earlier in setup we made our custom command for that)
 - now inside trail-of-bits docker image, run :
 - cd /name_of_your_directory , in our case [cd /MyCoin]
